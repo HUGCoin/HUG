@@ -1,0 +1,2 @@
+# HUG
+HUGCoin
